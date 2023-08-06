@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Mohamed Dhouib
 
-![photo](https://i.ibb.co/cwqqpgg/image.png)
+
 
 ## 🌟 About Me
 
