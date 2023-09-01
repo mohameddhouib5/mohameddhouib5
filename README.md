@@ -22,7 +22,7 @@ I am dedicated to continuous learning and growth, aiming to contribute my knowle
 
 ## 💬 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mohamed-dhouib-850aab190/)
+- LinkedIn: (https://www.linkedin.com/in/mohamed-dhouib-850aab190/)
 - Email: mohameddhouib741@email.com / dhouibmohamed@escs-u.sfax.tn
 
 Feel free to connect with me to discuss , collaborate on projects, or explore new opportunities together!
