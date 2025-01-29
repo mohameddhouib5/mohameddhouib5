@@ -13,7 +13,11 @@
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
     <img width="22" />
-  <img src="https://banner2.cleanpng.com/20180425/ppw/ave9tldyu.webp" height="50" alt="html5 logo"  />
+    <img src="https://www.helenjoscott.com/wp-content/uploads/2022/01/mongodb_standard.png" height="50" alt="html5 logo"  />
+    <img width="22" />
+   <img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" height="50" alt="html5 logo"  />
+    <img width="22" />
+  <img src="https://www.web-wave.fr/wp-content/uploads/2016/07/nodejs-logo-600x300.png" height="50" alt="html5 logo"  />
   <img width="22" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="22" />
