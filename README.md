@@ -1,7 +1,13 @@
 <h1 align="center">Hi , I'm Mohamed Dhouib</h1>
 <h3 align="center">A passionate full-stack developer from Tunisia</h3>
 
+###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohameddhouib"  />
+</div>
+
+###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohameddhouib5" alt="mohameddhouib5" /></a> </p>
 
