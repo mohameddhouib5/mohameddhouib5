@@ -14,8 +14,6 @@
   <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/979482449023209554" />
   <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/979482449023209554" />
   <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/979482449023209554" />
-  <img src="https://dev.discordprofiles.me/openspotify/979482449023209554" />
-  
 </div>
 
 ###
