@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dhouib</h1>
-<h3 align="center">A passionate Full-Stack Developer from Tunisia</h3>
+<h3 align="center">A passionate ***</h3>
 
 ###
 
@@ -22,18 +22,18 @@
 
 ###
 
-- 🔭 I’m currently working on **Data Mining projects**
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **AI Engineering**
+- 🌱 I’m currently learning 
 
-- 🤝 I’m looking to collaborate on **Machine Learning & Data Mining projects**
+- 🤝 I’m looking to collaborate on 
 
-- 💡 I’m looking for help with **Web & Data projects**
+- 💡 I’m looking for help with 
 
 - 👨‍💻 All of my projects are available on  
   👉 https://github.com/mohameddhouib5
 
-- 💬 Ask me about **MERN Stack — I'm passionate about it**
+- 💬 Ask me about 
 
 - 📫 How to reach me: **mohameddhouib741@gmail.com**
 
