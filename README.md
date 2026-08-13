@@ -1,26 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Dhouib</h1>
 <h3 align="center">A passionate ***</h3>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohameddhouib5" />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/979482449023209554" />
-  <img src="https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/979482449023209554" />
-</div>
-
-###
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohameddhouib5&theme=onedark" />
-</p>
-
-###
 
 - 🔭 I’m currently working on 
 
