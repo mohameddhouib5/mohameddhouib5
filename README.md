@@ -27,12 +27,21 @@ I am interested in exploring AI-driven solutions, developing innovative approach
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js,dart,php,sql" />
 
-**AI & Data Science**
+### Artificial Intelligence & Data Science
 
-- Python, NumPy, Pandas, Matplotlib
-- Scikit-learn, TensorFlow, Keras
-- Jupyter Notebook, Google Colab
-- Hugging Face
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pytorch" />
+  <img src="https://skillicons.dev/icons?i=jupyter" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+</p>
 
 **Development & Tools**
 
