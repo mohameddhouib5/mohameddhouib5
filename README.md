@@ -11,7 +11,7 @@
 
 ### About Me
 
-I am a Computer Science graduate specializing in **Machine Learning and Data Mining**, passionate about Artificial Intelligence, research, and emerging technologies.
+I am a Computer Science graduate specializing in **Machine Learning, Data Mining and Deep Learning**, passionate about Artificial Intelligence, research, and emerging technologies.
 
 I am interested in exploring AI-driven solutions, developing innovative approaches, and contributing to scientific research.
 
