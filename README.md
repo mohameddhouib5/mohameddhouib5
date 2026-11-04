@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Mohamed Dhouib</h1>
-<h3 align="center">AI Researcher | Machine Learning | Computer Science</h3>
+<h3 align="center">AI Researcher | Machine Learning & Deep Learning | Computer Science</h3>
 
 <p align="center">
   <a href="https://github.com/mohameddhouib5">
