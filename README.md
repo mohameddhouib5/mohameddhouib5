@@ -17,9 +17,7 @@ I am interested in exploring AI-driven solutions, developing innovative approach
 
 - 🎓 Master's Degree in Computer Science – Machine Learning & Data Mining.
 - 🔬 Research interests: Artificial Intelligence, Machine Learning, Deep Learning and Data Science.
-- 🌍 Erasmus+ KA171 academic mobility in France.
-- 📄 Research paper submitted to ICASSP 2027.
-- 💻 Explore my projects: [GitHub Repositories](https://github.com/mohameddhouib5)
+
 
 ---
 
