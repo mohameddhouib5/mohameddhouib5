@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/mohameddhouib5">
-    <img src="https://komarev.com/ghpvc/?username=mohameddhouib5&label=Profile%20Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=mohameddhouib5&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
@@ -11,13 +11,12 @@
 
 ### About Me
 
-I am a Computer Science graduate specializing in **Machine Learning, Data Mining and Deep Learning**, passionate about Artificial Intelligence, research, and emerging technologies.
+I am a Computer Science graduate specializing in **Machine Learning, Data Mining, and Deep Learning**, passionate about Artificial Intelligence, research, and emerging technologies.
 
 I am interested in exploring AI-driven solutions, developing innovative approaches, and contributing to scientific research.
 
 - 🎓 Master's Degree in Computer Science – Machine Learning & Data Mining.
-- 🔬 Research interests: Artificial Intelligence, Machine Learning, Deep Learning and Data Science.
-
+- 🔬 Research Interests: Artificial Intelligence, Machine Learning, Deep Learning, and Data Science.
 
 ---
 
@@ -25,12 +24,13 @@ I am interested in exploring AI-driven solutions, developing innovative approach
 
 **Programming Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,dart,php,sql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,dart,php,sql" alt="Programming Languages" />
+</p>
 
-### Artificial Intelligence & Data Science
+**Artificial Intelligence & Data Science**
 
 <p align="left">
-  
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -40,26 +40,29 @@ I am interested in exploring AI-driven solutions, developing innovative approach
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
 </p>
 
 **Development & Tools**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,symfony,html,css,tailwind,mongodb,mysql" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,symfony,html,css,tailwind,mongodb,mysql" alt="Development Technologies" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode,figma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws,vscode,figma" alt="Tools and Platforms" />
+</p>
 
 ---
 
 ### GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohameddhouib5&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddhouib5&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohameddhouib5&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohameddhouib5&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddhouib5&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohameddhouib5&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -68,10 +71,11 @@ I am interested in exploring AI-driven solutions, developing innovative approach
 
 <p align="center">
   <a href="https://linkedin.com/in/mohamed-dhouib">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="mailto:mohameddhouib741@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="35" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="Email" />
   </a>
 </p>
 
